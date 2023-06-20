@@ -1,3 +1,5 @@
+### 作者：https://gitlab.com/rwkgyg/acme-script
+
 一键脚本
 ```
 bash <(curl -L -s https://gitlab.com/rwkgyg/acme-script/raw/main/acme.sh)
